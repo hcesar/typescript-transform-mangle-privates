@@ -1,0 +1,15 @@
+node_modules/
+coverage/
+build/
+artifacts/*/dist/
+artifacts/*/node_modules/
+.DS_Store
+*/.DS_Store
+.project
+npm-debug.log
+tests/perf-benchmark/traces/
+tests/sources/assets/e2e-conf.js
+tests/sources/assets/e2e-pushes.js
+*.log
+scripts/*.pem
+scripts/*.pub

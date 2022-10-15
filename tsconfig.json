@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "output",
+
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "plugins": [{ "transform": "./mangle-privates.ts" }]
+  }
+}

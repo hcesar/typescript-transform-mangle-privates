@@ -1,0 +1,17 @@
+{
+  "name": "transform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "ttsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "18.11.0",
+    "ts-node": "10.9.1",
+    "ttypescript": "1.5.13",
+    "typescript": "4.8.4"
+  }
+}
